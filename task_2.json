@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Artificial Inteligence",
+        "started":1956,
+        "examples":[
+            "Chatbots",
+            "Image recognition",
+            "Fraud detection"
+        ]
+    },
+    {
+        "name":"Cybersecurity",
+        "started":1973,
+        "examples":[
+            "Firewalls",
+            "Antivirus Software",
+            "Encryption Software"
+        ]
+    },
+    {
+        "name":"Big Data",
+        "started":1992,
+        "examples":[
+            "Hadoop",
+            "Data Warehouses",
+            "Finance"
+        ]
+    },
+    {
+        "name":"Cloud computing",
+        "started":2002,
+        "examples":[
+            "AWS",
+            "Microsoft Azure",
+            "Google Cloud"
+        ]
+    }
+]

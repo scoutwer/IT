@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <topic name="artificial intelegence">
+        <example>Chatbots</example>
+        <example>Image recognition</example>
+        <example>Fraud detection</example>
+    </topic>
+    <topic name="cybersecurity">
+        <example>Firewalls</example>
+        <example>Antivirus Software</example>
+        <example>Encryption Software</example>   
+    </topic>
+    
+    <topic name="big data">
+        <example>Hadoop</example>
+        <example>Data Warehouses</example>
+        <example>Finance</example>    
+    </topic>
+    
+    <topic name="cloud computing">
+        <example>AWS</example>
+        <example>Microsoft Azure</example>
+        <example>Google Cloud</example>
+    </topic>
+
+</data>
