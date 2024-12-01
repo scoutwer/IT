@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+#topmenu {
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+#topmenu a {
+    width: 10%;
+    padding: 5px;
+}
+
+#inftech {
+    padding: 10px;
+}
+
+#topics {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+}
+
+#topics div {
+    padding: 5px;
+}
+
+@media (max-width: 800px) {
+    #topics {
+      flex-direction: column;
+    }
+}
+
+#sources {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#sources a:hover {
+    cursor: pointer;
+    color: lime;
+}
