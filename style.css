@@ -71,3 +71,11 @@ td{
     cursor: pointer;
     color: lime;
 }
+#form1 input[type="text"],
+#form1 input[type="number"]{
+    background-color: lightblue;
+}
+
+#form1 button {
+    background-color: lime;
+}
