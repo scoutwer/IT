@@ -6,3 +6,8 @@ img {
     object-fit: cover;
     display: inline-block;
 }
+ol {
+    border: 2px solid black;
+    list-style-type: upper-alpha;
+    font-weight: bold;
+ }
